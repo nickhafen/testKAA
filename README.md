@@ -1,6 +1,10 @@
-# testKAA
-
+# [Title]
 [Description]
+# Data layout
+[_]
+# License and Attribution
+We are making this data publicly available for broad, noncommercial public use under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1) license.
+# Contact Us
+If you have any questions about the data or licensing conditions, please contact [_]
 
-License
-[ORR Dataset] © 2024 by [ABC] is licensed under [CC BY 4.0]([url](https://creativecommons.org/licenses/by/4.0/)) 
+[Dataset] © 2024 by ABC is licensed under CC BY-NC 4.0 
